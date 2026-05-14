@@ -1,0 +1,9 @@
+.next
+node_modules
+.env*.local
+data
+.tools
+*.log
+interactive-lottery-poll-upload*
+interactive-lottery-poll-github-clean*
+*.docx
